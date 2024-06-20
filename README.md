@@ -11,4 +11,8 @@ The results of the images by merging Content and Style images is something like 
 
 (https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/999fb487-d5af-481c-90f2-f5d05840cd42)
 (https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/37403a2d-95b2-43db-b615-7998bd096053)
+Some References:
+https://arxiv.org/pdf/1508.06576.pdf https://arxiv.org/pdf/1603.08155.pdf 
+https://arxiv.org/pdf/1703.06868.pdf https://arxiv.org/pdf/1705.06830.pdf 
+https://arxiv.org/pdf/1804.03547.pdf https://arxiv.org/pdf/1912.07921.pdf 
 
