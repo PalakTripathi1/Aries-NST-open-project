@@ -7,8 +7,7 @@ Next here also included various helper functions like to load image and convert 
 After plotting the operations above by matplotlib the is involving the calculations for content and style losses by gramgrid.
 In this notebook, we first download the images using various commands, then set up the neural style transfer pipeline using PyTorch. We preprocess the images, load them into the neural network, and perform style transfer by optimizing the target image.
 The results of the images by merging Content and Style images is something like this:
-![image](https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/ae6164a4-9f37-411c-b06c-53fbc5c6c335)
-
+![image](https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/6abbd8ea-5903-4c9d-a815-399cb91a0585)
 
 (https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/999fb487-d5af-481c-90f2-f5d05840cd42)
 (https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/37403a2d-95b2-43db-b615-7998bd096053)
