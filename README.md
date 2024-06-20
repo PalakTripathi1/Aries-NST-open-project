@@ -10,3 +10,4 @@ The results of the images by merging Content and Style images is something like 
 [![Uploading image.png…]()
 ](https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/8f551462-388b-4a7b-872f-7e7a6a0a0717))
 
+(https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/999fb487-d5af-481c-90f2-f5d05840cd42)
