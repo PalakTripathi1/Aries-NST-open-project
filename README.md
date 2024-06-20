@@ -6,6 +6,6 @@ After Downloading the images we include the necessary files including matplotlib
 Next here also included various helper functions like to load image and convert image by various tensorflow operations.
 After plotting the operations above by matplotlib the is involving the calculations for content and style losses by gramgrid.
 In this notebook, we first download the images using various commands, then set up the neural style transfer pipeline using PyTorch. We preprocess the images, load them into the neural network, and perform style transfer by optimizing the target image.
-![Uploading image.png…]()
-
+[![Uploading image.png…]()
+](https://github.com/PalakTripathi1/Aries-NST-open-project/assets/127396297/8f551462-388b-4a7b-872f-7e7a6a0a0717))
 
