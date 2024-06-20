@@ -1,0 +1,24 @@
+def image_processing(path, sz=500, image_shape=None):
+    ''' Load in and transform an image, making sure the image
+       is <= 500 pixels in the x-y dims.'''
+    
+    picture = Image.open(path).convert('RGB')
+    
+    # large images will slow down processing
+    if max(picture.size) > sz:
+        size= sz
+    else:
+        size = max(picture.size)
+    
+    if image_shape is not None:
+        size = image_shape
+    
+    in_transform = transforms.Compose([ transforms.Resize((size, size)),
+                        transforms.ToTensor(),
+                        transforms.Normalize((0.485, 0.456, 0.406),
+                                          (0.229, 0.224, 0.225))])
+    
+    # discard the transparent, alpha channel (that's the :3) and add the batch dimension
+    picture = in_transform(picture)[:3, :, :].unsqueeze(0)
+    
+    return picture
